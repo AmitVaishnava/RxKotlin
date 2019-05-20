@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxKotlin</string>
+    <string name="no_internet_connection_msg">Lost internet connection. Please check and try again.</string>
+    <string name="default_error_msg">Something went wrong, Please try again</string>
+    <string name="title_activity_wiki_list_fragment">WikiListFragment</string>
+    <string name="search_title">Search Text from Wikipedia</string>
+</resources>
